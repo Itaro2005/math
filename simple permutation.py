@@ -1,6 +1,7 @@
 import math
 
-
+p = p
+n = n
 
 def fatorial2(n):
         valor = 1
@@ -8,7 +9,7 @@ def fatorial2(n):
             valor *= i
         return valor
 
-valor2 = fatorial2(n)/10
+value = fatorial2(n)/10
 
 
-print(valor2)
+print(value)
